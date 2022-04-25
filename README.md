@@ -4,8 +4,10 @@
   <a href="https://github.com/hugo-wemer"></a>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-wemer&layout=compact&langs_count=7&theme=vue-dark"/>
-</div></br>
+</div>
+
 ##
+
   <div>
     <a href="https://instagram.com/wemerhugo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233da379?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wemer.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-3572a5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
