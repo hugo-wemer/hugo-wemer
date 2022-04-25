@@ -17,7 +17,7 @@
   ##
   
 - 🔭 I’m an electrical engineer who sees how powerful programming can be in my daily life, including my job;
-- 🌱 I’m currently learning NuxtJs and AdonisJs;
+- 🌱 I’m currently learning ReactJs and NextJs;
 - 👯 I’m looking to collaborate on front-end or back-end projects that wants to make things easier, visually more elagant and robust;
 - 📫 How to reach me: wemer.eng@gmail.com;
 - 😄 Pronouns: hi/his.
