@@ -1,11 +1,11 @@
-### Hi, I'm Hugo Wemer 👋</h1>
-I am a Christian electrical engineer with a strong passion for web development. My expertise lies in creating visually elegant and accessible solutions using programming languages like VueJs, NuxtJs, and AdonisJs.
+### Hello, digital trailblazers, I am Hugo Wemer 👋</h1>
+ I am an Electrical Engineer, a devout Christian, and a fervent Web Developer. With ReactJS, NextJS, and AdonisJs, I sculpt accessible and visually appealing solutions.
 
-🚀 **Web Development Specialist:** I have built a solid foundation in web development, focusing on React JS and Next JS.
+🚀 **Web Development Specialist:** Proficient in React JS and Next JS, I navigate the digital landscape with dexterity and determination. However, I've started my journey with VueJS e NuxtJS.
 
-🔌 **Electrical Engineering Background:** My background in electrical engineering provides me with a strong technical foundation. I have experience building cross-platform desktop software with Electron JS. I've also designed monitoring systems with various sensors and implemented digital data processing techniques like noise filtering. 
+🔌 **Electrical Engineering Background:** With a strong technical foundation, I create cross-platform software using Electron JS, devise sensor-integrated monitoring systems, implement noise filtering techniques, and a bunch of things like that.
 
-🌱 **Continuous Learner:** I am dedicated to staying up-to-date with the latest industry trends and constantly seeking growth and improvement.
+🌱 **Continuous Learner:** Though my journey began with VueJs and NuxtJs, I have grown proficient in React JS and Next JS, navigating the digital landscape with dexterity and determination.
 
 ##
   <div>
