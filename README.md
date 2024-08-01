@@ -1,16 +1,12 @@
-### Hello, digital trailblazers, I am Hugo Wemer 👋</h1>
- I am an Electrical Engineer, a devout Christian, and a fervent Web Developer. With ReactJS, NextJS, and AdonisJs, I sculpt accessible and visually appealing solutions.
+# Hugo Wemer
+Fullstack developer | Electrical Engineering
 
-🚀 **Web Development Specialist:** Proficient in React JS and Next JS, I navigate the digital landscape with dexterity and determination. However, I've started my journey with VueJS e NuxtJS.
+[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Wemer-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-wemer-961575145/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/hugo-wemer-961575145/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![Gmail Badge](https://img.shields.io/badge/-wemer.eng@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wemer.eng@gmail.com)](mailto:wemer.eng@gmail.com)
 
-🔌 **Electrical Engineering Background:** With a strong technical foundation, I create cross-platform software using Electron JS, devise sensor-integrated monitoring systems, implement noise filtering techniques, and a bunch of things like that.
 
-🌱 **Continuous Learner:** Though my journey began with VueJs and NuxtJs, I have grown proficient in React JS and Next JS, navigating the digital landscape with dexterity and determination.
+🚀 **Web Development Specialist:** Skilled in ReactJS and NextJS, I create fullstack applications with precision and creativity.
 
-##
-  <div>
-    <a href="https://instagram.com/wemerhugo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233da379?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wemer.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-3572a5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hugo-wemer-961575145" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-273849?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+🔌 **Electrical Engineering Background:** With a strong technical foundation, I develop cross-platform software using Electron JS, sensor-integrated monitoring systems, and noise filtering techniques.
 
+🐍 **Python Enthusiast:** Proficient in Python, I use it for data processing and developing machine learning applications in electrical engineering.
